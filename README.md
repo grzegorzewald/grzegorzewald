@@ -1,16 +1,13 @@
-### Hi there 👋
+# Grzegorz Ewald
 
-<!--
-**grzegorzewald/grzegorzewald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Architect at Keyloop · Poland**
 
-Here are some ideas to get you started:
+I'm a data architect working in automotive technology at Keyloop, which acquired
+Automotive Transformation Group (ATG) in May 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Browse my repositories](https://github.com/grzegorzewald?tab=repositories)
+
+## Contact
+
+- **Website:** [ewalddata.systems](https://ewalddata.systems)
+- **Email:** [grzegorz@ewalddata.systems](mailto:grzegorz@ewalddata.systems)
